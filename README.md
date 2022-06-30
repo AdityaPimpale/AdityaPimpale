@@ -24,7 +24,7 @@
 <a href="https://auth.geeksforgeeks.org/user/adityapimpale/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityapimpale/profile" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapimpale&show_icons=true&locale=en&layout=compact" alt="adityapimpale" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapimpale&show_icons=true&locale=en&layout=compact" alt="adityapimpale" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityapimpale&show_icons=true&locale=en" alt="adityapimpale" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityapimpale&show_icons=true&locale=en" alt="adityapimpale" /></p>
 
