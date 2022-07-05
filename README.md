@@ -2,7 +2,6 @@
 <h3 align="center">Passionate Android Developer and Java Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapimpale&label=Profile%20views&color=0e75b6&style=flat" alt="adityapimpale" /> </p>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/AdityaPimpale">**Github**</a>
 
