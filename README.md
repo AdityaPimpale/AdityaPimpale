@@ -11,7 +11,6 @@
 
 - 📫 Reach out to me at **adityavinodpimpale@gmail.com**
 
-<br>
 
 <p align="left">
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapimpale&show_icons=true&locale=en&layout=compact" height="160"/>
