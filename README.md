@@ -14,7 +14,7 @@
 <br>
 
 <p align="left">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapimpale&show_icons=true&locale=en&layout=compact" height="200"/>
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapimpale&show_icons=true&locale=en&layout=compact" height="160"/>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=adityapimpale&show_icons=true&locale=en" height="170"/> -->
 </p>
 
