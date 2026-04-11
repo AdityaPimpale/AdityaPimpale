@@ -12,14 +12,3 @@
 - 📫 Reach out to me at **adityavinodpimpale@gmail.com**
 
 
-<p align="left">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapimpale&show_icons=true&locale=en&layout=compact" height="160"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=adityapimpale&show_icons=true&locale=en" height="170"/> -->
-</p>
-
-
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapimpale&show_icons=true&locale=en&layout=compact" alt="adityapimpale" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityapimpale&show_icons=true&locale=en" alt="adityapimpale" /></p> -->
-
